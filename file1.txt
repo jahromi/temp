@@ -1,1 +1,2 @@
 This is the files 1 in the master branch
+This file is for  storing configuration parameters
